@@ -23,7 +23,7 @@ Translator는 음성을 실시간으로 번역해주는 iOS 앱입니다. 사용
 
 ## 문의 및 지원
 앱 사용 중 문제가 발생하거나 문의사항이 있으시면 아래 이메일로 연락해 주세요.
-- 이메일: changhee.x@gmail.com
+- 이메일: yuul.finance@gmail.com
 
 ## 개인정보 처리방침
 Translator 앱은 사용자의 개인정보를 중요하게 생각합니다.
